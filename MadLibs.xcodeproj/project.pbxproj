@@ -13,6 +13,7 @@
 		856B399927662FA2000461A6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 856B399727662FA2000461A6 /* Main.storyboard */; };
 		856B399B27662FA6000461A6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 856B399A27662FA6000461A6 /* Assets.xcassets */; };
 		856B399E27662FA6000461A6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 856B399C27662FA6000461A6 /* LaunchScreen.storyboard */; };
+		856B39A627663578000461A6 /* SubmitViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 856B39A527663577000461A6 /* SubmitViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		856B399A27662FA6000461A6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		856B399D27662FA6000461A6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		856B399F27662FA6000461A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		856B39A527663577000461A6 /* SubmitViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubmitViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				856B399A27662FA6000461A6 /* Assets.xcassets */,
 				856B399C27662FA6000461A6 /* LaunchScreen.storyboard */,
 				856B399F27662FA6000461A6 /* Info.plist */,
+				856B39A527663577000461A6 /* SubmitViewController.swift */,
 			);
 			path = MadLibs;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				856B39A627663578000461A6 /* SubmitViewController.swift in Sources */,
 				856B399627662FA2000461A6 /* ViewController.swift in Sources */,
 				856B399227662FA2000461A6 /* AppDelegate.swift in Sources */,
 				856B399427662FA2000461A6 /* SceneDelegate.swift in Sources */,
